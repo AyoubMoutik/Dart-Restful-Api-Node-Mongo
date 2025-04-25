@@ -2,6 +2,16 @@
 
 A full-stack application for managing online courses, built with Flutter for the frontend and Node.js with Express and MongoDB for the backend.
 
+## Screenshots
+
+<div align="center">
+  <h3>Home Screen - Course Listing</h3>
+  <img src="assets/images/home.png" alt="Home Screen" width="600"/>
+  
+  <h3>Course Detail Screen</h3>
+  <img src="assets/images/detail.png" alt="Course Detail Screen" width="600"/>
+</div>
+
 ## Project Overview
 
 This project is a comprehensive course management system that allows users to:
